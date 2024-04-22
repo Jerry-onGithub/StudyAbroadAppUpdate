@@ -1,0 +1,5 @@
+/build
+/debug
+/release
+google-services.json
+/src/main/config.json
